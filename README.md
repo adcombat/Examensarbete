@@ -15,8 +15,8 @@ Konfiguera blynk APP - Vid skapande av egen blynk server (https://github.com/bly
 char auth[] = "Auth koden från Blynk Appen!";
 
 
-char ssid[] = "SSID";
-char pass[] = "XFD34053EDLK";
+char ssid[] = "";
+char pass[] = "";
 
 
 #define EspSerial Serial3
